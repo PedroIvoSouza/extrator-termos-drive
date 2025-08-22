@@ -1,0 +1,2145 @@
+[
+  {
+    "cliente": {
+      "nome_razao_social": "ESCOLA E CRECHE LUCENA KIDS LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": null,
+      "numero_termo": "47/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "MODELO. Termo de Permissão de Uso .docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "M ALBUQUERQUE & CIA LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000402/2025",
+      "numero_termo": "46/2025",
+      "nome_evento": "Feira Cultural” do Colégio 29 de julho",
+      "datas_evento": "10 de outubro de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "Cópia de 46. Termo de Permissão de Uso - Colégio 29 de julho.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000021/2025",
+      "numero_termo": "01/2025",
+      "nome_evento": null,
+      "datas_evento": "20 e 21 de setembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 4491.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "01. Termo de Permissão de Uso - ECOS.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000412/2025",
+      "numero_termo": "48/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO"
+    },
+    "parcelas": [],
+    "arquivo_origem": "48. Termo de Permissão de Uso  - MEDGRUPO.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "M ALBUQUERQUE & CIA LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000402/2025",
+      "numero_termo": "46/2025",
+      "nome_evento": "Feira Cultural” do Colégio 29 de julho",
+      "datas_evento": "10 de outubro de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "46. Termo de Permissão de Uso - Colégio 29 de julho.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "G A ENTRETENIMENTO",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000409/2025",
+      "numero_termo": "47/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "47. Termo de Permissão de Uso  - GA PRODUÇÕES.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000098/2025",
+      "numero_termo": "15/2025",
+      "nome_evento": null,
+      "datas_evento": "13 de julho de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 6387.2
+    },
+    "parcelas": [],
+    "arquivo_origem": "15. Termo de Permissão de Uso - Teatro Solidário.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ESCOLA OFICINA DA VIDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000365/2025",
+      "numero_termo": "45/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "45. Termo de Permissão de Uso - Escola Oficina da Vida.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "FREITAS & SILVA INSTRUMENTO MUSICAIS LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000364/2025",
+      "numero_termo": "44/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "44. Termo de Permissão de Uso - Villa Lobos.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "MULTIEVENTOS PROMOÇÕES E ASSESSORIA.",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000362/2025",
+      "numero_termo": "43/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "43. Termo de Permissão de Uso - Multieventos.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000339/2025",
+      "numero_termo": "42/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "42. Termo de Permissão de Uso - C. Santíssimo Sr..docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000332/2025",
+      "numero_termo": "41/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "41. Termo de Permissão de Uso - “Eryka .docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000324/2025",
+      "numero_termo": "40/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "40. Termo de Permissão de Uso - Colégio Maria de Fátima.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "TTO ACADEMIA DE ARTES",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": null,
+      "numero_termo": "39/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "39. Termo de Permissão de Uso - Atto Academia.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "TTO ACADEMIA DE ARTES",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000082/2025",
+      "numero_termo": "08/2025",
+      "nome_evento": null,
+      "datas_evento": "05",
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO em frente ao auditório",
+      "valor_final": 7365.24
+    },
+    "parcelas": [],
+    "arquivo_origem": "08. Termo de Permissão de Uso - Atto Academia de Artes"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "CRECHE ESCOLA A CASA MÁGICA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000309/2025",
+      "numero_termo": "38/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "38. Termo de Permissão de Uso - Escola Casa Mágica.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ESCOLA E CRECHE LUCENA KIDS LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000296/2025",
+      "numero_termo": "37/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "37. Termo de Permissão de Uso - Lucena Kids.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000291/2025",
+      "numero_termo": "36/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "36. Termo de Permissão de Uso - CEPEC.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "PRODUTORA KR",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000289/2025",
+      "numero_termo": "35/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "35. Termo de Permissão de Uso - Colação de Grau - KR.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000277/2025",
+      "numero_termo": "34/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "34. Termo de Permissão de Uso - Festival Alagoano de Danças Árabes.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "LLEGRO STUDIO DE DANÇA E ARTE",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000045/2025",
+      "numero_termo": "02/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "02. Termo de Permissão de Uso - ALLEGRO STUDIO .docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "CONVEM HONDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000234/2025",
+      "numero_termo": "33/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "33. Termo de Permissão de Uso - HONDA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ARIANNA NUTT",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000233/2025",
+      "numero_termo": "32/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "32. Termo de Permissão de Uso - Show de Comédia \"De repente 40\".docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ESCOLA INTEGRAL O VERBO",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000227/2025",
+      "numero_termo": "31/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "31. Termo de Permissão de Uso - Escola O VERBO.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000226/2025",
+      "numero_termo": "30/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "30. Termo de Permissão de Uso - Colégio IEP.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "MON PLIE ACADEMIA DE DANÇA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000215/2025",
+      "numero_termo": "29/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "29. Termo de Permissão de Uso - Evento de Dança - Cintia.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ACADEMIA DE BALLET CLÁSSICO SELMA PIMENTEL",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000204/2025",
+      "numero_termo": "28/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "28. Termo de Permissão de Uso - Selma Pimentel.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ESCOLA E CRECHE LUCENA KIDS LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000199/2025",
+      "numero_termo": "27/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "27. Termo de Permissão de Uso - Lucena Kids.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000193/2025",
+      "numero_termo": "26/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "26. Termo de Permissão de Uso - Amuse Producoes.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "LIMA ARTES",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000092/2025",
+      "numero_termo": "11/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO em frente ao auditório",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "11. Termo de Permissão de Uso - Lima Artes Peça Infantil.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "FEDERAÇÃO ALAGOANA DE FISICULTURISMO FITNESS E WELLNESS (F.A.F.F.W-WBPF)",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000175/2025",
+      "numero_termo": "23/2024",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "23. Termo de Permissão de Uso - Fisiculturismo.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000182/2025",
+      "numero_termo": "25/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE"
+    },
+    "parcelas": [],
+    "arquivo_origem": "25. Termo de Permissão de Uso - Col. Agnus Dei.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "PESSOA FÍSICA ANDRÉ LUÍS BONFIM SOUSA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000174/2025",
+      "numero_termo": "22/2024",
+      "nome_evento": null,
+      "datas_evento": "11 e 12 de setembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE",
+      "valor_final": 4491.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "22. Termo de Permissão de Uso - FAC.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000181/2025",
+      "numero_termo": "24/2024",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE"
+    },
+    "parcelas": [],
+    "arquivo_origem": "24. Termo de Permissão de Uso - Show Cassio  Petronilo.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "CRECHE LAÇOS DO SABER",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000093/2025",
+      "numero_termo": "12/2025",
+      "nome_evento": null,
+      "datas_evento": "06 e 07 de novembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO em frente ao auditório",
+      "valor_final": 7365.24
+    },
+    "parcelas": [],
+    "arquivo_origem": "12. Termo de Permissão de Uso - Laços do Saber.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "SALTARE LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000156/2025",
+      "numero_termo": "20/2024",
+      "nome_evento": null,
+      "datas_evento": "27 e 28 de novembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE"
+    },
+    "parcelas": [],
+    "arquivo_origem": "20. Termo de Permissão de Uso - SALTARE.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000168/2025",
+      "numero_termo": "21/2024",
+      "nome_evento": null,
+      "datas_evento": "07 de dezembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "21. Termo de Permissão de Uso - Colégio Manoel Cândido.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ACADEMIA DE BALLET CLÁSSICO SELMA PIMENTEL",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000065/2025",
+      "numero_termo": "05/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "05. Termo de Permissão de Uso - Selma Pimentel.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "MASTER FORMATURAS E EVENTOS LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000118/2025",
+      "numero_termo": "19/2024",
+      "nome_evento": null,
+      "datas_evento": "20 de março de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "19. Termo de Permissão de Uso - UMJ.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ASSEMBLEIA LEGISLATIVA ESTADUAL DE ALAGOAS, inscrita no CNPJ nº 12.343.976/0001-46, com sede na Praça Dom Pedro II - Centro, Maceió – AL, 57020-130, neste ato representado pelo Deputado Estadual V.Ex.ª JOSÉ RONALDO MEDEIROS",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000117/2025",
+      "numero_termo": "18/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "18. Termo de Permissão de Uso - Dep. Ronaldo Medeiros.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000112/2025",
+      "numero_termo": "17/2025",
+      "nome_evento": "Feira Cultural” do Colégio 29 de julho",
+      "datas_evento": "11 de abril de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "17. Termo de Permissão de Uso - Colégio 29 de julho.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000100/2025",
+      "numero_termo": "16/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "16. Termo de Permissão de Uso - Colégio CENA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000097/2025",
+      "numero_termo": "14/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "14. Termo de Permissão de Uso - Dança do Ventre.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000096/2025",
+      "numero_termo": "13/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "13. Termo de Permissão de Uso - Amuse Producoes.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000087/2025",
+      "numero_termo": "10/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO em frente ao auditório",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "10. Termo de Permissão de Uso - Colégio Monte Sinai.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000075/2025",
+      "numero_termo": "09/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO em frente ao auditório",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "09. Termo de Permissão de Uso - Show Joyce Alane.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000050/2025",
+      "numero_termo": "03/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 1996.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "03. Termo de Permissão de Uso - EUPHORIA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000072/2025",
+      "numero_termo": "07/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 4491.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "07. Termo de Permissão de Uso - System Idioma.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000071/2025",
+      "numero_termo": "06/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 2495.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "06. Termo de Permissão de Uso - Amuse Producoes.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000051/2025",
+      "numero_termo": "04/2025",
+      "nome_evento": null,
+      "datas_evento": "02 de agosto de 2025",
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 6087.8
+    },
+    "parcelas": [],
+    "arquivo_origem": "04. Termo de Permissão de Uso - CEPEC.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": null,
+      "numero_termo": null,
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "MODELO -  Termo de Permissão de Uso.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000285/2025",
+      "numero_termo": "68/2025",
+      "nome_evento": null,
+      "datas_evento": "24 de setembro de 2025 e 26 de novembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "68. Termo de Permissão de Uso - UFAL (EDGE).docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000404/2025",
+      "numero_termo": "67/2024",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "67. Termo de Permissão de Uso - SENAI/FIEA (anfiteatro).docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000400/2025",
+      "numero_termo": "66/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "66. Termo de Permissão de Uso - SEBRAE.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000398/2025",
+      "numero_termo": "65/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "65. Termo de Permissão de Uso - CRA/AL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000391/2025",
+      "numero_termo": "63/2025",
+      "nome_evento": null,
+      "datas_evento": "11 e 12 de  julho de 2026",
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "63. Termo de Permissão de Uso - FEPESA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000392/2025",
+      "numero_termo": "64/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "64. Termo de Permissão de Uso - UMJ.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000390/2025",
+      "numero_termo": "62/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "Laboratório Oxetech do Espaço de Fomento",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "62. Termo de Permissão de Uso - FEPESA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000373/2025",
+      "numero_termo": "60/2025",
+      "nome_evento": null,
+      "datas_evento": "informados abaixo",
+      "espaco_utilizado": "Coworking da 116 (Espaço de Fomento)",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "60. Termo de Permissão de Uso - IFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "UNIVERSIDADE FEDERAL DE ALAGOAS - UFAL, por meio do Laboratório EDGE, inscrita no CNPJ nº 24.464.109/0001-48, com sede na Universidade Federal de Alagoas - Avenida Lourival de Melo Mota, S/N, Tabuleiro do Martins, CEP: 57072-900, neste ato representada pelo coordenador Rodrigo de Barros Paes",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000344/2025",
+      "numero_termo": "57/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "57. Termo de Permissão de Uso - EDGE.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000342/2025",
+      "numero_termo": "56/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "Coworking da 116 (Espaço de Fomento)",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "56. Termo de Permissão de Uso - EDGE.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000338/2025",
+      "numero_termo": "55/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "55. Termo de Permissão de Uso - BF Estrategia.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000333/2025",
+      "numero_termo": "54/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "54. Termo de Permissão de Uso - Studio Mandala.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000331/2025",
+      "numero_termo": "53/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "53.  Termo de Permissão de Uso - Gazeta Summit.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000329/2025",
+      "numero_termo": "52/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "52.  Termo de Permissão de Uso - NES UFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000314/2025",
+      "numero_termo": "51/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "51.  Termo de Permissão de Uso - GRUPO DE MULHERES DO BRASIL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "YELLOW KITE PROPAGANDA E PUBLICIDADE LTDA, inscrita no CNPJ sob nº 13.055.903/0001-11, com endereço na Rua Melo Póvoas, 116, Centro de Inovação do Jaraguá, Sala 225, Maceió-AL, CEP 57055-320, neste ato representado por Marcos Paulo da Costa Correia",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000311/2025",
+      "numero_termo": "50/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "50.  Termo de Permissão de Uso - Yellow Kite.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000290/2025",
+      "numero_termo": "49/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "49. Termo de Permissão de Uso - BIP.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "UNIVERSIDADE FEDERAL DE ALAGOAS - UFAL, inscrita no CNPJ sob nº 24.464.109/0001-48, através do Laboratório EDGE, com endereço na Av. Lourival Melo Mota, S/n, Tabuleiro do Martins, Maceió - AL, CEP 57075-900, representada neste ato pelo Sr. Ivvy Pedrosa Cavalcante Pessoa Quintella",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000285/2025",
+      "numero_termo": "48/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO DE INOVAÇÃO EM FRENTE AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "48. Termo de Permissão de Uso - UFAL (EDGE).docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000276/2025",
+      "numero_termo": "47/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "COWORKING DO ESPAÇO DE FOMENTO, SALA DE REUNIÃO DA 116  e ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "47. Termo de Permissão de Uso - UFAL (EDGE).docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000258/2025",
+      "numero_termo": "46/2025",
+      "nome_evento": null,
+      "datas_evento": "03 de junho de 2025",
+      "espaco_utilizado": "AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "46. Termo de Permissão de Uso - SESAU na SECTI.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000252/2025",
+      "numero_termo": "45/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO e ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "45. Termo de Permissão de Uso - FIJA 2025.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000242/2025",
+      "numero_termo": "44/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "44. Termo de Permissão de Uso - Show do Rubel - SUE CHAMUSCA .docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000239/2025",
+      "numero_termo": "43/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "43. Termo de Permissão de Uso - Karol.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "LITTE TOWN ESCOLA DE ENSINO INFANTIL LTDA. inscrita no CNPJ/MF sob o nº 32.088.484/0001-69, e estabelecida na Avenida Comendador Gustavo Paiva, nº 1012, Cruz das Almas, Maceió – AL, CEP 57038-000, representada por Amanda Torres de Carvalho",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000214/2024",
+      "numero_termo": "42/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e DO ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "42. Termo de Permissão de Uso - Little Town.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000235/2025",
+      "numero_termo": "41/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e DO ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "41. Termo de Permissão de Uso - Seminário do Projeto Sankofa - FEPESA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000229/2025",
+      "numero_termo": "40/2025",
+      "nome_evento": null,
+      "datas_evento": "18 de maio de 2025 e 19 de julho de 2025",
+      "espaco_utilizado": "AUDITÓRIO e DO ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "40. Termo de Permissão de Uso - FEPESA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000202/2025",
+      "numero_termo": "39/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e DO ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "39. Termo de Permissão de Uso - UFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000191/2025",
+      "numero_termo": "38/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO E ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "38. Termo de Permissão de Uso - BALAIO MEETING.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ASSESPRO ALAGOAS, inscrita no CNPJ sob nº 02.830.949/0001-44, com endereço na R. Melo Póvoas, 110, Jaraguá - Sala 305, Maceió-AL, CEP 57025-180, representada pelo  Sr. Carlos Albuquerque Lima Junior",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000172/2025",
+      "numero_termo": "35/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO, ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO E ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "35. Termo de Permissão de Uso - ASSESPRO.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ASSESPRO ALAGOAS, inscrita no CNPJ sob nº 02.830.949/0001-44, com endereço na R. Melo Póvoas, 110, Jaraguá - Sala 305, Maceió-AL, CEP 57025-180, representada pelo  Sr. Carlos Albuquerque Lima Junior",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000172/2025",
+      "numero_termo": "36/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO, ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO E ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "36. Termo de Permissão de Uso - ASSESPRO.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000189/2025",
+      "numero_termo": "37/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "37. Termo de Permissão de Uso - PROJETO LITERÁRIO.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000170/2025",
+      "numero_termo": "34/2025",
+      "nome_evento": null,
+      "datas_evento": "04 e 05 de setembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO, DO ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO E DO ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "34. Termo de Permissão de Uso - UFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ZIENDA GESTÃO CONTÁBIL LTDA, inscrita no CNPJ nº 24.087.968/0001-65, com sede na Av. Menino Marcelo, 9350 Sala 219, Empresarial Humberto Lobo CEP: 57046-000 Maceió – Alagoas, neste ato representado por Tanísia Marinho Rodrigues",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000169/2025",
+      "numero_termo": "33/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO EM FRENTE DO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "33. Termo de Permissão de Uso - Conte+ Summit 2ª Edição.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "WORLD CREATIVITY ORGANIZATION.",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000167/2025",
+      "numero_termo": "32/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "32. Termo de Permissão de Uso - WCD.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000166/2025",
+      "numero_termo": "31/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e o ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "31. Termo de Permissão de Uso - FUNDEPES.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000160/2025",
+      "numero_termo": "30/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "30. Termo de Permissão de Uso - UFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ASSESPRO ALAGOAS, inscrita no CNPJ sob nº 02.830.949/0001-44, com endereço na R. Melo Póvoas, 110, Jaraguá - Sala 305, Maceió-AL, CEP 57025-180, representada pelo  Sr. Carlos Albuquerque Lima Junior",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000157/2025",
+      "numero_termo": "29/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "29. Termo de Permissão de Uso - ASSESPRO.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000091/2025",
+      "numero_termo": "18/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "18. Termo de Permissão de Uso - Arquidiocese.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000148/2025",
+      "numero_termo": "28/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "28. Termo de Permissão de Uso - IPCI.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ALBERTO A COSTA EMPREENDIMENTOS",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000145/2025",
+      "numero_termo": "27/2025",
+      "nome_evento": null,
+      "datas_evento": "26 e 27 de setembro de 2025",
+      "espaco_utilizado": "AUDITÓRIO, ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO e ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "27. Termo de Permissão de Uso - EBA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "YELLOW KITE PROPAGANDA E PUBLICIDADE LTDA, inscrita no CNPJ nº 13.055.903/0001-11, com sede na Rua Melo Póvoas, 116, Centro de Inovações do Jaraguá, Sala 225, Maceió-AL, CEP 57055-320, neste ato representado por Marcos Paulo da Costa Correia",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000144/2025",
+      "numero_termo": "26/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e do ESPAÇO ABERTO EM FRENTE DO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "26. Termo de Permissão de Uso - Yellow Kite.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "WORLD CREATIVITY ORGANIZATION.",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000125/2025",
+      "numero_termo": "25/2024",
+      "nome_evento": null,
+      "datas_evento": "9",
+      "espaco_utilizado": "AUDITÓRIO, ESPAÇO ABERTO, ANFITEATRO e CORREDOR",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "25. Termo de Permissão de Uso - WCD abril.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000119/2025",
+      "numero_termo": "24/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "Coworking da 116 (Espaço de Fomento)",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "24. Termo de Permissão de Uso - IFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "MASTER FORMATURAS E EVENTOS LTDA",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000118/2025",
+      "numero_termo": "23/2024",
+      "nome_evento": null,
+      "datas_evento": "20 de março de 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "23. Termo de Permissão de Uso - UMJ.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "UNIVERSIDADE FEDERAL DE ALAGOAS (UFAL), através do Orion (Laboratório de Ciência dos Dados Aplicada à Cidades Inteligentes)",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000116/2025",
+      "numero_termo": "22/2024",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "22. Termo de Permissão de Uso - Orion.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000070/2025",
+      "numero_termo": "15/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "15. Termo de Permissão de Uso - SUE CHAMUSCA.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000110/2025",
+      "numero_termo": "20/2025",
+      "nome_evento": null,
+      "datas_evento": "informados abaixo",
+      "espaco_utilizado": "Coworking da 116 (Espaço de Fomento)",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "20. Termo de Permissão de Uso - IFAL.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "WORLD CREATIVITY ORGANIZATION.",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000111/2025",
+      "numero_termo": "21/2024",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "21. Termo de Permissão de Uso - WCD.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "ALBERTO A COSTA EMPREENDIMENTOS",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000108/2025",
+      "numero_termo": "19/2025",
+      "nome_evento": null,
+      "datas_evento": "30 e 31 de agosto de 2025",
+      "espaco_utilizado": "AUDITÓRIO, ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO e ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "19. Termo de Permissão de Uso - Feirão do Estudante.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000089/2025",
+      "numero_termo": "17/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "17. Termo de Permissão de Uso - Show Ayrton Montarroyos - SUE CHAMUSCA .docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000088/2025",
+      "numero_termo": "16/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "16. Termo de Permissão de Uso - Show Mônica Salmaso - SUE CHAMUSCA .docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000056/2025",
+      "numero_termo": "09/2025",
+      "nome_evento": null,
+      "datas_evento": "02",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "09. Termo de Permissão de Uso - EduConecta.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000063/2025",
+      "numero_termo": "12/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "12. Termo de Permissão de Uso - Pestalozzi.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000062/2025",
+      "numero_termo": "13/2025",
+      "nome_evento": null,
+      "datas_evento": "29",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "13. Termo de Permissão de Uso - CONCEP 2025.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000061/2025",
+      "numero_termo": "11/2025",
+      "nome_evento": null,
+      "datas_evento": "08",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "11. Termo de Permissão de Uso - OAB LAW TREND.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "PESSOA FÍSICA CLÁUDIO CLAUDEMIR  ÂNGELO BULGARELLI",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000060/2025",
+      "numero_termo": "10/2025",
+      "nome_evento": null,
+      "datas_evento": "23 de abril 2025",
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "10. Termo de Permissão de Uso - Prêmio Alagoano de Turismo e Gastronomia.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000036/2025",
+      "numero_termo": "07/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "07. Termo de Permissão de Uso - Dep. Ronaldo Medeiros.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000030/2025",
+      "numero_termo": "06/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "06. Termo de Permissão de Uso - SENAC.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "PESSOA FÍSICA DINO JOSÉ DE OLIVEIRA ALVES",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000029/2025",
+      "numero_termo": "05/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "05. Termo de Permissão de Uso - Festival Transformar.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": null,
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:36000.0000000027/2025",
+      "numero_termo": "04/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "AUDITÓRIO e ESPAÇO ABERTO EM FRENTE AO AUDITÓRIO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "04. Termo de Permissão de Uso - SELAJ.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "PESSOA FÍSICA UDSON PINHEIRO ARAUJO",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000016/2025",
+      "numero_termo": "02/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "02. Termo de Permissão de Uso - FMC.docx"
+  },
+  {
+    "cliente": {
+      "nome_razao_social": "MASTER EDUCAÇÃO,  inscrita no CNPJ nº 48.055.955.0001/72, com sede na Av Walter Ananias 594, Poço, Maceió/AL, CEP: 57025-510, neste ato representada por Marcos Lucas da Silva Oliveira",
+      "documento": "04.007.216/0001-30",
+      "tipo_pessoa": "PJ",
+      "nome_responsavel": null,
+      "documento_responsavel": "."
+    },
+    "evento": {
+      "numero_processo": "E:30010.0000000012/2025",
+      "numero_termo": "01/2025",
+      "nome_evento": null,
+      "datas_evento": null,
+      "espaco_utilizado": "ANFITEATRO",
+      "valor_final": 0.0
+    },
+    "parcelas": [],
+    "arquivo_origem": "01. Termo de Permissão de Uso - Master Educação.docx"
+  }
+]
